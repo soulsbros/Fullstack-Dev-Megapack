@@ -4,9 +4,11 @@
   "description": "An extension pack filled to the brim with useful tools for any fullstack dev",
   "version": "0.0.1",
   "publisher": "Soulsbros",
+  "repository": "https://github.com/soulsbros/Fullstack-Dev-Megapack",
   "engines": {
     "vscode": "^1.69.0"
   },
+  "license": "MIT",
   "categories": [
     "Extension Packs"
   ],
