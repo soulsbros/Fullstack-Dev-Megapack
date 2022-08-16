@@ -4,16 +4,26 @@
   "description": "An extension pack filled to the brim with useful tools for any fullstack dev",
   "version": "0.0.2",
   "publisher": "Soulsbros",
-  "repository": "https://github.com/soulsbros/Fullstack-Dev-Megapack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soulsbros/Fullstack-Dev-Megapack"
+  },
   "engines": {
     "vscode": "^1.69.0"
   },
   "license": "MIT",
+  "keywords": [
+    "fullstack",
+    "productivity",
+    "tools",
+    "project management"
+  ],
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
     "alefragnani.project-manager",
+    "atlassian.atlascode",
     "bierner.emojisense",
     "bierner.markdown-emoji",
     "bmewburn.vscode-intelephense-client",
@@ -61,6 +71,7 @@
     "platformio.platformio-ide",
     "redhat.java",
     "SonarSource.sonarlint-vscode",
+    "shyykoserhiy.vscode-spotify",
     "streetsidesoftware.code-spell-checker",
     "twxs.cmake",
     "vsciot-vscode.vscode-arduino",
