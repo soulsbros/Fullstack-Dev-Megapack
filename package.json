@@ -2,7 +2,7 @@
   "name": "fullstack-dev-megapack",
   "displayName": "Fullstack Dev Megapack",
   "description": "An extension pack filled to the brim with useful tools for any fullstack dev",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "Soulsbros",
   "repository": {
     "type": "git",
