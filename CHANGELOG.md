@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.6]
+
+- Updated package list
+
 ## [0.0.3]
 
 - Updated README and package information
