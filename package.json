@@ -2,14 +2,14 @@
   "name": "fullstack-dev-megapack",
   "displayName": "Fullstack Dev Megapack",
   "description": "An extension pack filled to the brim with useful tools for any fullstack dev",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "publisher": "Soulsbros",
   "repository": {
     "type": "git",
     "url": "https://github.com/soulsbros/Fullstack-Dev-Megapack"
   },
   "engines": {
-    "vscode": "^1.99.2"
+    "vscode": "^1.123.1"
   },
   "license": "MIT",
   "keywords": [
@@ -27,8 +27,7 @@
     "README.md"
   ],
   "extensionPack": [
-    "alefragnani.project-manager",
-    "aprilandjan.ascii-tree-generator",
+    "aegis-forge.soteria",
     "bierner.emojisense",
     "bierner.markdown-emoji",
     "bmewburn.vscode-intelephense-client",
@@ -37,9 +36,9 @@
     "davidanson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
     "docker.docker",
+    "dotenv.dotenv-vscode",
     "dotjoshjohnson.xml",
     "dsznajder.es7-react-js-snippets",
-    "eamodio.gitlens",
     "editorconfig.editorconfig",
     "eeyore.yapf",
     "esbenp.prettier-vscode",
@@ -51,11 +50,13 @@
     "james-yu.latex-workshop",
     "jasonlhy.hungry-delete",
     "jeff-hykin.better-cpp-syntax",
-    "mikestead.dotenv",
+    "lokalise.i18n-ally",
+    "mechatroner.rainbow-csv",
     "ms-azuretools.vscode-docker",
     "ms-python.isort",
     "ms-python.python",
     "ms-python.vscode-pylance",
+    "ms-python.vscode-python-envs",
     "ms-toolsai.jupyter",
     "ms-toolsai.jupyter-keymap",
     "ms-toolsai.jupyter-renderers",
@@ -76,6 +77,7 @@
     "redhat.java",
     "redhat.vscode-yaml",
     "richie5um2.vscode-sort-json",
+    "rndev.tickify",
     "sonarsource.sonarlint-vscode",
     "streetsidesoftware.code-spell-checker",
     "streetsidesoftware.code-spell-checker-italian",
